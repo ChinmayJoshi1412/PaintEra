@@ -1,6 +1,6 @@
-# paintera
+# PaintEra
 
-A new Flutter project.
+An app that classifies paintings according to different art movements across history.
 
 ## Getting Started
 
