@@ -1,0 +1,5 @@
+0 Renaissance
+1 Baroque
+2 Romanticism
+3 Realism
+4 Expressionism
