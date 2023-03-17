@@ -1,16 +1,4 @@
 # PaintEra
 
-An app that classifies paintings according to different art movements across history.
+Paintera is an app that helps you classify a painting according to the 5 major art movements in history which include Renaissance, Baroque, Romanticism, Realism and Expressionism. The app which makes use of a TensorFlow model trained on images of paintings from the above mentioned eras
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
